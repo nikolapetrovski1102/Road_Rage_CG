@@ -1,0 +1,3 @@
+C:/Users/nikpe/Downloads/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/CarGame/cmake-build-debug/CMakeFiles/untitled51.dir
+C:/Users/nikpe/Downloads/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/CarGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikpe/Downloads/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/INTERACTIVE-3D-CAR-GAME-in-OPENGL-main/CarGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
